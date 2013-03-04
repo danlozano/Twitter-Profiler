@@ -1,0 +1,554 @@
+#Consumerism Level Analyzer
+
++Brands
+-apple
+-google
+-microsoft
+-ibm
+-walmart
+-general electric
+-coca cola
+-amazon
+-at&t
+-verizon
+-wells fargo
+-bank of america
+-mcdonalds
+-intel
+-hewlett packard
+-home depot
+-chase
+-nike
+-american express
+-ford
+-chevron
+-pepsi
+-oracle
+-exxon
+-disney
+-target
+-marlboro
+-pwc
+-cisco
+-comcast
+-olay
+-dell
+-jp morgan
+-walgreens
+-sams club
+-cingular
+-3m
+-fedex
+-united health
+-deloitte
+-cvs
+-asda
+-goldman
+-time warner
+-boeing
+-ebay
+-lowes
+-facebook
+-wachovia corp
+-ernst and young
+-caterpillar
+-directv
+-kelloggs
+-avon
+-gillette
+-volvo
+-costco
+-johnson & johnson
+-fox
+-visa
+-accenture
+-starbucks
+-conoco
+-phillips
+-honeywell
+-mclane company
+-macy's
+-neutrogena
+-manulife
+-metlife
+-claro
+-scotiabank
+-union pacific
+-budweiser
+-merck
+-heinz
+-bank of montreal
+-bell
+-century link
+-mastercard
+-nbc
+-subway
+-abbott labs
+-kraft
+-kimberly-clark
+-cbs
+-capital one
+-best buy
+-xbox
+-microsoft
+-pnc
+-chevrolet
+-virgin media
+-enbridge
+-emc2
+-corona
+-kroger
+-cibc
+-yahoo
+-bellsouth
+-medco
+-us bank
+-pizza hut
+-public
+-nordstrom
+-sysco
+-medtronic
+-colgate
+-mbna
+-kohls
+-prudential
+-bombardier
+-rogers
+-the bank of new york mellon
+-lehman bros
+-state farm
+-priceline
+-supervalu
+-safeway
+-sprite
+-kleenex
+-raytheon
+-dish networks
+-staples
+-allstate
+-telcel
+-washington mutual
+-johnson controls
+-java
+-winston
+-estee lauder
+-aol
+-aetna
+-sprint
+-nextel
+-mtv
+-john deere
+-merrill lynch
+-express scripts
+-norton
+-cadbury
+-qvc
+-thomson
+-southern company
+-mountain dew
+-xerox
+-optum health
+-international paper
+-wellpoint
+-pfizer
+-sun
+-comcast
+-polo
+-ralph lauren
+-victoria's secret
+-sears
+-general dynamics
+-lilly
+-blackberry
+-RIM
+-texas instruments
+-kfc
+-gigna
+-manulife financial
+-bloomberg
+-sara lee
+-gmc
+-shaw
+-fannie mae
+-coach
+-green mountain coffee
+-bnsf railway
+-conagra
+-wyeth
+-george weston
+-thermo fisher scientific
+-dow
+-hershey's
+-wrigley's
+-emerson
+-espn
+-danaher
+-csx
+-telus
+-travelers
+-delta
+-blackberry
+-adm
+-autozone
+-champion
+-tiffany
+-whole foods
+-motorola
+-adobe
+-activision
+-blizzard
+-lockheed martin
+-geico
+-bed bath & beyond
+-hess
+-abc
+-nielsen
+-black & decker
+-norfolk
+-the hartford
+-qwest
+-fanta
+-paypal
+-sandisk
+-bershire hathaway
+-united
+-rite aid
+-aflac
+-dollar general
+-eds
+-expedia
+-great west life
+-cn
+-schering plough
+-jc penney
+-pantene
+-bristol myers squibb
+-du pont
+-bimbo
+-electronic arts
+-cemex
+-harley davidson
+-bb&t
+-tropicana beverages
+-symantec
+-duke energy
+-gap
+-tyson
+-mckinsey
+-lay's
+-covidien
+-marriot
+-7up
+-newport
+-state street
+-cummins
+-applied materials
+-edison internation
+-vauxhall
+-hilton
+-pseg
+-potashcorp
+-chs
+-taco bell
+-blackrock
+-royal caribbean
+-whirlpool
+-mcgraw hill
+-murphy
+-marathon
+-dominion
+-qualcomm
+-aig
+-aveeno
+-hbo
+-turner
+-fpl
+-progressive
+-ameriprise financia
+-adp
+-bd
+-kkr
+-charter
+-campbell's
+-banamex
+-bnsf railway
+-csc
+-suntrust
+-loblaws
+-mobil
+-brookfield
+-mccain foods
+-duracell
+-aes
+-smith barney
+-esso
+-baxter
+-alltel
+-news corp
+-bacardi
+-aep
+-barrick gold
+-kodak
+-clean & clear
+-lenovo
+-oxy
+-l3 communications
+-tj maxx
+-televisa
+-shoppers drug mart
+-carrier
+-kmart
+-cardinal health
+-sobeys
+-northrop grumman
+-telmex
+-hsn
+-mattel
+-united airlines
+-imperial oil
+-dean foods
+-jaguar
+-petro-canada
+-levi's
+-ingersoll rand
+-charles schwab
+-constellation energy
+-cognizant tech
+-canadian tire
+-gannett
+-franklin templeton
+-quebecor
+-american airlines
+-amgen
+-entergy
+-upc
+-paramount
+-eli lilly & co
+-continental airlines
+-optimum
+-great west lifeco
+-lee
+-saputo
+-fifth third bank
+-husky energy
+-jpmorgan chase
+-lasalle bank
+-camel
+-western union
+-valero
+-mckesson
+-quicksilver
+-tim hortons
+-southwest
+-sun life financial
+-transcanada
+-intact
+-desjardins
+-p&g
+-femsa
+-seagate
+-blackstone
+-carnival
+-exelon
+-bear stearns
+-nextel
+-us airways
+-lululemon
+-penske
+-wachovia
+-old navy
+-cgi
+-cvs caremark
+-onex
+-soriana
+-discover
+-avery dennison
+-m.a.c.
+-jack daniels
+-home hardware
+-viterra
+-invesco
+-morgan stanley smith barney
+-clear media
+-harris corp
+-southwest airlines
+-cme
+-juniper networks
+-northern trust
+-johnson's
+-regions
+-national city
+-keycorp
+-cenovus
+-can utilities
+-sobey's
+-metro pcs
+-ameritrade
+-bell aliant
+-m&t bank
+-nyse euronext
+-frontier
+-teck resources
+-grey goose
+-raymon james
+-suncor energy
+-syncrude
+-jim pattison
+-real canadian superstore
+-revlon
+-gildan
+-nasdaq
+-windstream
+-rowe price
+-america movil
+-us celular
+-mccann erickson
+-level 3
+-gallo family vineyards
+-cogeco
+-clinique
+-union bank of california
+-countrywide
+-softsoap
+-anixter
+-irish spring
+-lpl financial
+-comcel
+-zions bancorp
+-corning
+-sallie mae
+-americna tower
+-starent
+-compass bank
+-tracfone
+-crown castle
+-igm financial
+-amsouth bank
+-credicorp
+-banorte
+-clearwire
+-paetec
+-commscope
+-north fork banc corp
+-tandberg asa
+-bce
+-echostar
+-ciena
+-legg mason
+-huntington bancshares
+-tbwa worldwide
+-lazard
+-polycom
+-leap
+-comerica
+-ddb worldwide
+-jdsu
+-dallas cowboys
+-new england patriots
+-speed stick
+-grupo santander
+-equinix
+-huntington
+-roc
+-new york giants
+-green bay packers
+-jim bean
+-tw telecom
+-citizens
+-pittsburgh steelers
+-coty
+-xo communications
+-cincinnati bell
+-bok financial
+-metavante
+-stifel financial
+-new york yankees
+-head & shoulders
+-lamar advertising
+-investors group
+-elizabeth arden
+-allstream
+-global crossing
+-new orleans saints
+-philadelphia eagles
+-commerce bancorp
+-tcf
+-baltimore ravens
+-houston texans
+-washington redskins
+-new york jets
+-sovereign bank
+-jefferies
+-arris
+-global payments
+-dewar's
+-finisar
+-first horizon
+-conocel
+-first citizens bank
+-knight
+-us trust
+-eaton vance
+-vtr
+-chicago bears
+-mf global
+-harte hanks
+-interactive brokers
+-space systems
+-fairpoint communications
+-arizona cardinals
+-denver broncos
+-william lawsons
+-viasat
+-waddell & reed
+-comverse
+-americredit
+-3com
+-indianappolis colts
+-bombay sapphire
+-ny community bank
+-kansas city chiefs
+-pfpc
+-laurentian bank
+-carso global
+-rf micro devices
+-upc
+-m&i
+-platronics
+-nycb
+-inbursa
+-adtran
+-lowe & partners
+-banco popular
+-megacable
+-robert mondavi
+-hughes
+-sba communications
+-liberty global
+-commerce bank
+-federated
+-first niagra
+-mackenzie investments
+-bgc partners
+-synovus
+-och ziff
+-neustar
+-people's united bank
+-porta
+-bok financial
+-courvoisier
+-timber hill
+-nelnet
+-ibm interactive
+-janus
+-hudson cit savings bank
+-general communications
+-dundeewealth
+-savvis
+-wintrust financial
+
+
+
+
+
+

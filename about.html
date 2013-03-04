@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Twitter Profiler &middot; Daniel Lozano</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/jqcloud.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 20px;
+        padding-bottom: 40px;
+      }
+
+      /* Custom container */
+      .container-narrow {
+        margin: 0 auto;
+        max-width: 700px;
+      }
+      .container-narrow > hr {
+        margin: 30px 0;
+      }
+
+      /* Main marketing message and sign up button */
+      .jumbotron {
+        margin: 60px 0;
+        text-align: center;
+      }
+      .jumbotron h1 {
+        font-size: 72px;
+        line-height: 1;
+      }
+      .jumbotron .btn {
+        font-size: 21px;
+        padding: 14px 24px;
+      }
+
+      /* Supporting marketing content */
+      .marketing {
+        margin: 60px 0;
+      }
+      .marketing p + h4 {
+        margin-top: 28px;
+      }
+    </style>
+    <link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body>
+
+    <div class="container-narrow">
+
+      <div class="masthead">
+        <ul class="nav nav-pills pull-right">
+          <li><a href="index.html">Home</a></li>
+          <li class="active"><a href="about.html">About</a></li>
+        </ul>
+        <h3 class="muted">danielozano</h3>
+      </div>
+
+      <hr>
+      <div class="jumbotron">
+        <img src="assets/img/twitterProfilerLogoWeb.png">
+        <h1>About</h1>
+        <p class="lead">This is actually version 0.9 of the Twitter Profiler, it is still a Beta Version. The analyzer's work by looking for certain keywords that conform to each category, and keeping a score. Here's a little information about how the different analyzer's work. It goes without saying that this App is just for fun, and should not be taken as a serious/real analysis.</p>
+        
+        <hr>
+        <h2>Emotional Analyzer</h2>
+        <hr>
+        <p>Uses the <a href="http://emotion-research.net/projects/humaine/earl/proposal">'Emotion Annotation and Representation Language' (EARL)</a> proposed by the Human-Machine Interaction Network on Emotion (HUMAINE) which categorizes human emotions into 10 different categories. The analyzer looks for certain keywords which convey the feelings in each of these categories, and then calculates which percentage of the total keywords belong to each category.</p>
+
+        <hr>
+        <h2>Psychopathy Analyzer</h2>
+        <hr>
+        <p>This analyzer is based upon a study from Cornell University called <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.2044-8333.2011.02025.x/abstract">'Hungry like the wolf: A word-pattern analysis of the language of psychopaths'</a>, which was published in the 'Legal and Criminal Psychology Journal'. This study explains the traits that we can find in the way's psychopaths speak. The 4 categories they look for are:
+        <table class="table">
+          <tr class="success"><td>Narcicism: </td><td> Psychopaths usually use the words 'I, me, myself, etc.' a lot in their speech.</td></tr>
+          <tr class="error"><td>Material Needs: </td><td> Psychopaths talk frequently about material needs. Food, drink, alcohol, money, possessions, etc.</td></tr>
+          <tr class="warning"><td>Cause and Effect: </td><td> They use cause and effect qualifiers frequently. Therefore, because, leading to, etc.</td></tr>
+          <tr class="info"><td>Disfluencies: </td><td> They have dificulty expressing themselves and resort to 'uhhms, uhh' frequently.</td></tr>
+        </table>
+        </p>
+
+        <hr>
+        <h2>Spiritual Analyzer</h2>
+        <hr>
+        <p>Looks for keywords pertaining to general religion, and for ones pertaining to specific religious branches. God, Jesus, Buddha, Karma, etc.</p>
+
+        <hr>
+        <h2>Consumer Analyzer</h2>
+        <hr>
+        <p>Looks for occurences of the brands in the <a href="http://brandirectory.com/brands/continent/North_America">'Brand Directory's Top 500 North American Brands'.</a></p>
+
+
+
+
+
+      </div>
+
+    </div>
+
+  </body>
+</html>

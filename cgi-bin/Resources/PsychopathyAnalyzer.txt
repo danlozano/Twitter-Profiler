@@ -1,0 +1,67 @@
+#Psychopathy Analyzer
+#...
+#...
+
++Cause and effect
+-because
+-since
+-so that
+-as a result
+-due to
+-owing to
+-thanks to
+-now that
+-after all
+-by reason of
+-on account
+
++Material needs
+-food
+-eat
+-ate
+-hunger
+-hungry
+-groceries
+-restaurant
+-take out
+-entree
+-cuisine
+-plate
+-drink
+-refreshment
+-thirst
+-booze
+-brew
+-cup
+-draft
+-glass
+-gulp
+-liquid
+-liquor
+-taste
+-beer
+-vodka
+-rum
+-money
+-dollar
+-bill
+-coin
+-rich
+-poor
+-economic
+
++Disfluencies
+-uh
+-uhh
+-uhhh
+-um
+-umm
+-ummm
+
++Narcisism
+-I
+-me
+-mine
+-myself
+-yours truly
+
